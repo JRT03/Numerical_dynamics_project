@@ -1,4 +1,4 @@
-# Mars_lander_project
+# Numercial_dynamics_project
 This repository contains some of a mars lander project completed as part of the univeristy course.
 
 Specifically the first two assignments relating to use of euler and verlet integration techniques for two physical applications. A simple mass on a spring and then some orbital mechanics.
